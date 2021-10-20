@@ -1,12 +1,13 @@
-# Unity Hospital
+# Ghosh Hospital
 
-The live Site [link](https://maa-o-sishu-hosptal.web.app).
+The live Site [link](https://ghosh-hospital-pg.netlify.app/).
 
 ## In This Website
 
-* The website is made by the help of react router
-* I have also used bootstrap and react bootstrap
-* It also contain a login form
+* firebase used for authentication
+*  bootstrap and react bootstrap used here
+*  can  hire doctors
 * Login form can be toggled and used as registration form
-* I have used firebase for authentication
+* can see details
+* react router used to build the site 
 
