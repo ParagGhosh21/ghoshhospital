@@ -1,8 +1,8 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import first from '../../images/flat-lay-health-still-life-arrangement-with-copy-space.jpg'
-import second from '../../images/young-handsome-physician-medical-robe-with-stethoscope.jpg'
-import third from '../../images/medicine-capsules-global-health-with-geometric-pattern-digital-remix.jpg'
+import first from '../../images/hospital-background-images-hd-9.jpg'
+import second from '../../images/photo-1587351021355-a479a299d2f9.jpg'
+import third from '../../images/various-doctor-hospital-medical.jpg'
 import Services from '../Services/Services';
 import AboutUs from '../AboutUs/AboutUs';
 import './Home.css'
